@@ -31,7 +31,7 @@ const Services = () => {
         />
         <ProductAds
           image="/image/services/service-7.jpg"
-          content="In 2023, we gained an additional 3,500 new clients and supported them in achieving remarkable results. profitability."
+          content="In 2023, we gained an additional 3,500 new clients and supported them in achieving remarkable results profitability."
         />
       </div>
     </>
